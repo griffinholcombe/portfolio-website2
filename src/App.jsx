@@ -6,12 +6,12 @@ function App() {
       {/* Navigation */}
       <nav className="navbar">
         <div className="nav-container">
-          <div className="logo">Griffin Holcombe</div>
+          <div className="logo"></div>
           <ul className="nav-menu">
-            <li><a href="#about">About</a></li>
-            <li><a href="#experience">Experience</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+            <li><a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+            <li><a href="mailto:your.email@example.com">Email</a></li>
+            <li><a href="#" className="resume-link">Resume</a></li>
           </ul>
         </div>
       </nav>
@@ -19,9 +19,8 @@ function App() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
-          <h1 className="hero-title">Hi, I'm Griffin</h1>
-          <p className="hero-subtitle">Full-stack developer creating beautiful and functional web experiences</p>
-          <a href="#projects" className="cta-button">View My Work</a>
+          <h1 className="hero-title">Griffin Holcombe</h1>
+          <p className="hero-subtitle">Full-stack software engineer</p>
         </div>
       </section>
 
@@ -155,7 +154,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>&copy; 2024 Griffin Holcombe. All rights reserved.</p>
+        <p>&copy; 2026 Griffin Holcombe. All rights reserved.</p>
       </footer>
     </div>
   )
