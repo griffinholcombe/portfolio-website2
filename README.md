@@ -1,4 +1,4 @@
-#Griffin Holcombe Software Engineer - griffinholcombe.dev
+# Griffin Holcombe Software Engineer - griffinholcombe.dev
 
 Dear Hiring Manager,
 I am writing to express my strong interest in the role at your organization. As a Computer Science student at the University of Pittsburgh graduating in 2026, with hands-on industry experience and a passion for building impactful software, I am eager to bring my technical skills and collaborative mindset to your team.
