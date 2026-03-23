@@ -1,16 +1,11 @@
-# React + Vite
+#Griffin Holcombe Software Engineer - griffinholcombe.dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dear Hiring Manager,
+I am writing to express my strong interest in the role at your organization. As a Computer Science student at the University of Pittsburgh graduating in 2026, with hands-on industry experience and a passion for building impactful software, I am eager to bring my technical skills and collaborative mindset to your team.
+This past summer, I had the opportunity to intern as a Full-Stack Software Engineer at BNY in Pittsburgh, where I developed Java-based automation algorithms that reduced manual processing time for payment transactions, improving department throughput by 10%. I also built and shipped internal web application features using Angular that streamlined employee workflows and reduced support tickets. Working within an Agile team environment, I participated in sprint planning, daily standups, and code reviews—gaining practical experience in how high-performing engineering teams deliver production-quality software.
+Beyond my professional experience, I have applied my skills to meaningful projects. I led the development of a full-stack course review platform using Spring Boot and PostgreSQL as part of a 4-person Agile team, and built a machine learning deceit prediction model using NLP techniques such as TF-IDF and bigrams. My technical toolkit spans Java, Python, JavaScript, React, Angular, Spring Boot, SQL, and AWS—and I am always eager to pick up new technologies as projects demand.
+I also bring strong leadership and communication skills developed through serving as President of Mu Kappa Upsilon, a service fraternity at Pitt, and as a section leader for the University of Pittsburgh Varsity Marching Band, where I guided 40 members through performances, practices, and events. These experiences have sharpened my ability to collaborate effectively, adapt quickly, and lead with empathy—qualities I believe are just as important as technical proficiency in any engineering role.
+I would welcome the opportunity to discuss how my background and enthusiasm can contribute to your team. Thank you for your time and consideration—I look forward to the possibility of speaking with you.
+Sincerely,
+Griffin Holcombe
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
